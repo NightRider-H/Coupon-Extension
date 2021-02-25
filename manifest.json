@@ -10,6 +10,6 @@
     ],
     "browser_action":{
         "default_popup":"popup.html",
-        "default_title":"Coupon code collector"
+        "default_title":"Couponn code collector"
     }
 }
